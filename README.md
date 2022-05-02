@@ -7,7 +7,7 @@
 
 ## 💼 Technical Skills
 ![Python](https://img.shields.io/badge/Python-298ee6.svg?style=for-the-badge&logo=Python&logoColor=white)
-![C++ (Robotics)](https://img.shields.io/badge/C++-%231572B6.svg?style=for-the-badge&logo=C++&logoColor=white)
+![C++ (Robotics)](https://img.shields.io/badge/C++-%2320232a.svg?style=for-the-badge&logo=C++&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
