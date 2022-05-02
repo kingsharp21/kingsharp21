@@ -49,9 +49,9 @@
 <a href="https://www.instagram.com/kings_harp/" target="_blank">
   <img align="left" alt="kingsharp - Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"/>
 </a>
-<a href="https://wa.link/6whkd6" target="_blank">
+<!-- <a href="https://wa.link/6whkd6" target="_blank">
   <img align="left" alt="kingsharp - WhatsApp" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"/>
-</a>
+</a> -->
 <br>
 <br>
 
