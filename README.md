@@ -3,7 +3,7 @@
 </p> -->
 
 <h2 align="center">Hi <img src="https://github.com/mcbryan1/mcbryan1/blob/2d925c1c6c9ec1a9f3f08155279bddfad482a3e3/images/wave-animated.gif" width="25px">, I'm Kingsharp Ampedu Nkansah (kingsharp21)</h2>
-<p align="center">Courteous and enthusiastic, I am interested in React and everything in its orbit. I recently began to be fascinated by mobile programming, ie. developing Mobile Apps</p>
+<p align="center">I am a well-organized, dedicated individual and an excellent team player with the ability to learn new skills and idea. I have good communication skills with the tendency of achieving set target.</p>
 
 ## 💼 Technical Skills
 ![Python](https://img.shields.io/badge/Python-298ee6.svg?style=for-the-badge&logo=Python&logoColor=white)
