@@ -6,7 +6,7 @@
 <p align="center">Courteous and enthusiastic, I am interested in React and everything in its orbit. I recently began to be fascinated by mobile programming, ie. developing Mobile Apps</p>
 
 ## 💼 Technical Skills
-![Python](https://img.shields.io/badge/Python-%231572B6.svg?style=for-the-badge&logo=Python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-298ee6.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![C++ (Robotics)](https://img.shields.io/badge/C++-%231572B6.svg?style=for-the-badge&logo=C++&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
